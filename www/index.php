@@ -50,5 +50,6 @@
 		<?php
 	}
 	?>
+	<h3><i>Powered by Husky South Tower!</i></h3>
 </body>
 </html>
